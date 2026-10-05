@@ -2,7 +2,7 @@
 
 A polished, responsive single-page quiz built with React and Vite around the supplied Chingu quiz API. This is a **practice/sample implementation** for learning and comparison; it is not intended to be submitted as a user's own Chingu Solo Project.
 
-![QuizForge preview](docs/preview.svg)
+![QuizForge preview](docs/preview.png)
 
 ## What this sample demonstrates
 
